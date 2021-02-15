@@ -1,10 +1,10 @@
-public class Quine
+public class quin
 {
   public static void main(String[] args)
   {
     char q = 34;
     String[] l = {
-    "public class Quine",
+    "public class quin",
     "{",
     "  public static void main(String[] args)",
     "  {",
